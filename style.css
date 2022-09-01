@@ -1,0 +1,53 @@
+.img {
+    position: relative;
+}
+
+p {
+    color: rgba(0, 191, 255, 0.616);
+    size: 100rem;
+    ;
+}
+
+#Favorite {
+    color: black;
+}
+
+#header {
+
+    color: chartreuse;
+    font-size: 50px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+
+}
+
+
+h2 {
+    color: rgb(247, 112, 112);
+    font-size: 34px;
+    -webkit-text-stroke: 1px black;
+    -webkit-text-fill-color: rgb(247, 121, 121);
+}
+
+li {
+    color: green;
+}
+
+
+button {
+    margin: .4rem;
+    padding: .4rem .4rem;
+    background-color: none;
+    border: 0.2rem solid rgb(247, 112, 112);
+    color: rgb(247, 112, 112);
+    font-size: 1rem;
+    border-radius: 1rem;
+    border-bottom-left-radius: 1rem;
+
+}
+
+h3 {
+    color: darkslateblue;
+    font-style: bold;
+
+}
