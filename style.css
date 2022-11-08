@@ -1,0 +1,35 @@
+.ten {
+    color: blueviolet;
+}
+
+#twenty {
+    color: cyan;
+}
+
+.thirty {
+    color: deeppink;
+}
+
+#forty {
+    color: lawngreen;
+}
+
+.fifty {
+    color: lightgreen;
+}
+
+#sixty {
+    color: brown;
+}
+
+.seventy {
+    color: crimson;
+}
+
+#eighty {
+    color: darkgoldenrod;
+}
+
+.ninety {
+    color: rgb(255, 0, 76);
+}
