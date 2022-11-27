@@ -1,0 +1,8 @@
+div {
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    border-radius: 10px 130px 30px 130px;
+    display: inline-block;
+    background-color: yellow;
+}
